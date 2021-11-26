@@ -28,9 +28,15 @@ twitter_username:
 github_username:  thinking-with-computers
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+#  - jekyll-paginate
+
+
+#paginate: 8
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
