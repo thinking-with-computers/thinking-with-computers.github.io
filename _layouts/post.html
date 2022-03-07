@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
+
+<p class="postmeta">{{ page.date | date_to_string }} - {{ page.author }}</p>
+
 <h2>{{ page.title }}</h2>
-<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
 
 {{ content }}
+
+---
