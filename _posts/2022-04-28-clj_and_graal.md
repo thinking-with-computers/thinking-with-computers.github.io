@@ -1,8 +1,8 @@
 ---
-title: Clj + Graal: Compiling Clojure a static binary.
+title: Clj and Graal: Compiling Clojure a static binary.
 author: Scott
 layout: post
-tags: meta
+tags: clojure, tooling
 ---
 
 I have been plugging away at [a first implementation of Ludus](https://github.com/thinking-with-computers/cludus) for a while now, and it's both quite nice in terms of syntax, and it's Turing-complete! (All of the gory details of my design process and implementation state are available in the [ludus-spec repo](https://github.com/thinking-with-computers/ludus-spec) on Github.) I have much more to say about Ludus and its design in the (near) future (just once this term ends and I revise my second book...). 

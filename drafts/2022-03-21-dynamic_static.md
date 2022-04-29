@@ -2,7 +2,7 @@
 title: Dynamic, static, and all that.
 author: Scott
 layout: post
-tags: meta
+tags: clojure, tooling
 ---
 
 One of the major things we are doing as part of the Thinking with Computers project is writing our own programming language. The rationale behind this--beyond the masochistic pleasure behind hacking on languages as artists and humanists--stems from Seymour Papert's notion of "procedural epistemology." Knowledge is always a kind of knowing-how, not a knowing-that. We learn what something is by _doing_ with it.
