@@ -131,3 +131,6 @@ The static binary is fast![0] It works. It's frankly magic for me to have writte
 
 [0] Erm, for some value of "fast." It's way faster than `lein run` in any event. The Clojure implementation of Ludus is very slow. It's a tree-walk interpreter that has no optimization of any kind at this point. But such interpreters are faster to develop and easier to change than the eventual bytecode interpreter written in a lower-level language.
 
+#### ETA: A small caveat
+As I expected, a static binary compiled on an M1 Mac will not, in fact, work on an Intel-based Mac. This means (naturally) that you will either want different binaries, or you'll want to compile your binaries on an Intel machine and run it on an M1 using Rosetta.
+
