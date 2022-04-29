@@ -122,7 +122,7 @@ Now we have what we need for a native image:
                       -H:Name=./target/ludus
 ```
 
-Obviously, change this for your `.jar` filename, version number, and binary name. And voila! You have an executable binary.
+Obviously, change this for your `.jar` filename, version number, and binary name. And basta! You have an executable binary.
 
 One note: the `--initialize-at-build-time` flag is deprecated, and supposed to have been removed in GraalVM v22. I'm using v22.1, and it's still working (but with a deprecation warning saying it'll be removed in v22.) It's necessary for Clojure projects. There is a great deal of discussion (much of it over my head; I'm not a JVM person) in [the GraalVM issues](https://github.com/oracle/graal/discussions/3476). The good folks at clj-easy apparently [have a workaround](https://github.com/clj-easy/graal-build-time), but I haven't tried it yet.
 
