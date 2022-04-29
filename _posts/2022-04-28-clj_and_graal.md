@@ -1,5 +1,5 @@
 ---
-title: "Clj + Graal: Compiling Clojure a static binary."
+title: "Clj + Graal: Compiling a Clojure static binary."
 author: Scott
 layout: post
 tags: clojure, tooling
