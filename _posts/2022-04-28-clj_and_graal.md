@@ -85,7 +85,7 @@ In your `core.clj` file, with the `-main` entry point, you need to ensure that t
 ```
 
 #### Step 3b: Edit your `project.clj`
-Assuming you've used Leiningen for project management, your `project.clj` filly will look something like:
+Assuming you've used Leiningen for project management, your `project.clj` file will look something like:
 
 ```clojure
 (defproject ludus "0.1.0-SNAPSHOT"
