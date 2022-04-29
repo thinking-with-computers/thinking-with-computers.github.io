@@ -27,11 +27,11 @@ I also assume you have Clojure and Leiningen installed. If you don't:
 ### Step 1: Get jenv
 Jenv is a Java version/environment manager. You will be installing a new Java runtime (GraalVM is also a runtime). Rather than dealing with manually working with Java environments, we use jenv: 
 
-`brew install jenv`.
+`> brew install jenv`
 
 Jenv will need to have various configs installed, so heed the Caveats. Running Fish, I see I need to complete setup by running:
 
-`> echo 'status --is-interactive; and source (jenv init -|psub)' >> ~/.config/fish/config.fish`.
+`> echo 'status --is-interactive; and source (jenv init -|psub)' >> ~/.config/fish/config.fish`
 
 Copy-pasta!
 
@@ -40,7 +40,7 @@ To reload Fish with our new path: `source ~/.config/fish/config.fish`.
 ### Step 2: Get GraalVM & `native-image`
 GraalVM is hidden behind a cask: 
 
-`> brew install --cask graalvm/tap/graalvm-ce-java17`.
+`> brew install --cask graalvm/tap/graalvm-ce-java17`
 
 If you're on a recent version of MacOS, the whole install of Graal violates Apple's attempts to keep you from running unsafe code/malware/bleeding edge tech/hobbyist programs. That means you'll have to disable SIP for this particular install: 
 
