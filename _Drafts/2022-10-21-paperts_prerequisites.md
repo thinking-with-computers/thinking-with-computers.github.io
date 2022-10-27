@@ -7,12 +7,19 @@ tags: meta
 In chapter 6 of *Mindstorms*, Seymour Papert posits a hypothetical conversation between GAL and ARI over a familiar question in the history of physics: do objects fall at a velocity proportionate to or independent of their weight? ARI, our hypothetical Aristotle, believes that a heavier object will fall faster than a lighter one while GAL, our hypothetical Galileo, is trying to convince ARI that this is not the case. The conversation is as follows
 
 > GAL: Look, your theory has got to be wrong. Here's a two-pound and a one-pound ball. The two-pound ball takes two seconds to fall to the ground. Tell me, how long do you think the one-pound ball would need?
+
 > ARI: I suppose it would take four seconds. Anyway, much more than two seconds.
+
 > GAL: I thought you would say that. But now please answer another question. I am about to drop two one-pounders simultaneously. How long will the pair of them take to reach the ground?
+
 > ARI: That's not another question. I gave my opinion that one-pound balls take four seconds. Two of them must do the same. Each falls independently.
+
 > GAL: You are consistent with yourself if two bodies are two bodies, not one.
+
 > ARI: As they are ... of course.
+
 > GAL: But now if I connect them by a gossamer thread... is this now two bodies or one? Will it (or they) take two seconds or four to fall to the ground?
+
 > ARI: I am truly confused. Let me think . . . . It's one body, but then it should fall for four seconds before reaching the earth. But then this would mean that a thread finer than silk could slow down a furiously falling ball of iron. It seems impossible. But if I say it is two bodies ... I am in deep trouble. What is a body? How do I know when one becomes two? And if I cannot know then how sure can I be of my laws of falling bodies? (142)
 
 Papert admits that GAL's argument is not fool-proof, but his focus here is on why this explanation is particularly "subversive of the kind of theory expounded by ARI". (142) The latter kind of theory is one which Papert connects to the tendency in education to teach skills and facts over other more personal ways of knowing. The examples he gives of the more personal ways are manifested in metaphors that Papert finds adults using to describe their learning. Per Papert, adults refer more to "*getting to know* an idea, *exploring* an area of knowledge, and *acquiring sensitivity* to distinctions" rather than specific and discrete skills and facts (136). While facts and skills are "easier to measure" and thus easier to test for, the other kinds of getting to know an idea are a more robust kind of learning for Papert. 
